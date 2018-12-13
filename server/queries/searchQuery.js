@@ -1,6 +1,6 @@
 module.exports = {
     "from": 0, "size": 10,
-    "index": "reuters_davidusajeevan",
+    "index": "reuters",
     "type": "article",
     "body": {
         "query": {

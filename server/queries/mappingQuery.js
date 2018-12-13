@@ -1,5 +1,5 @@
 module.exports = {
-  "index": "reuters_davidusajeevan",
+  "index": "reuters",
   "type": "article",
   "body": {
     "properties": {
